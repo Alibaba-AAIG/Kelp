@@ -4,7 +4,7 @@
   <h2>
     <a href="https://anonymous.4open.science/r/PlugGuard-1883"> <img src="https://img.shields.io/badge/📝-Paper-blue"></a>
     <a href="https://anonymous.4open.science/r/PlugGuard-1883"><img src="https://img.shields.io/badge/🤗-Data-orange"></a>
-    <a href="https://anonymous.4open.science/r/PlugGuard-1883"><img src="https://img.shields.io/badge/💡-Demo-yellow"></a>
+    <a href="https://github.com/Alibaba-AAIG/Kelp/blob/main/assets/demo_PlugGuard.mp4"><img src="https://img.shields.io/badge/💡-Demo-yellow"></a>
   </h2>
 
 </div>
