@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>PlugGuard: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection</h1>
+  <h1>Kelp: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection</h1>
 
   <h2>
-    <a href="https://github.com/Alibaba-AAIG/Kelp"> <img src="https://img.shields.io/badge/📝-Paper-blue"></a>
+    <a href="https://arxiv.org/pdf/2510.09694"> <img src="https://img.shields.io/badge/📝-Paper-blue"></a>
     <a href="https://huggingface.co/datasets/Alibaba-AAIG/StreamGuardBench"><img src="https://img.shields.io/badge/🤗-Data-orange"></a>
     <a href="https://github.com/Alibaba-AAIG/Kelp/blob/main/assets/demo_PlugGuard.mp4"><img src="https://img.shields.io/badge/💡-Demo-yellow"></a>
   </h2>
