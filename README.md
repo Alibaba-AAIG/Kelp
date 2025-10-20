@@ -74,7 +74,7 @@ We provide a modified modeling_qwen3.py in utils/, which you can integrate into 
 
 ## Citation
 If you find this work useful, please cite our paper:
-```
+```bibtex
 @misc{li2025kelpstreamingsafeguardlarge,
       title={Kelp: A Streaming Safeguard for Large Models via Latent Dynamics-Guided Risk Detection}, 
       author={Xiaodan Li and Mengjie Wu and Yao Zhu and Yunna Lv and YueFeng Chen and Cen Chen and Jianmei Guo and Hui Xue},
